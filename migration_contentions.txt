@@ -1,0 +1,7 @@
+# Naming convention
+
+TIMESTAMP_create_table_name.rb
+20231019123435_create_restaurants.rb
+
+rake db:migrate
+=> runs ALL the migrations that HAVEN'T been run already
